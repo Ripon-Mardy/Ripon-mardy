@@ -1,5 +1,5 @@
 
-![Screenshot 2023-11-05 194242](https://github.com/Ripon-Mardy/Ripon-mardy/assets/102289887/f95e7fba-598a-48db-8f00-f8edbb0c6970)
+<img src="https://github.com/Ripon-Mardy/Ripon-mardy/assets/102289887/f95e7fba-598a-48db-8f00-f8edbb0c6970" />
 
 <h1 align="center">Hello World 👋, I'm Ripon Mardy (Axel R)</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
