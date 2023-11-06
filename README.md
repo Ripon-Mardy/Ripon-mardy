@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Ripon Mardy (Axel R)</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robenbaskey&label=Profile%20views&color=0e75b6&style=flat" alt="robenbaskey" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Map based Social Media Project(SocioMap)**
 
-- 👯 I’m looking to collaborate on **Ecommerce App(Santhal Bro)**
+- 👯 I’m looking to collaborate on **E-commerce App(Santhal Bro)**
 
-- 🤝 I’m looking for help with **Ecommerce App(Santhal Bro)**
+- 🤝 I’m looking for help with **E-commerce App(Santhal Bro)**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Web Developer**
 
-- 📫 How to reach me **baskeyjames10@gmail.com**
+- 📫 How to reach me **mardyripon10@gmail.com**
 
 - ⚡ Fun fact **I think I am Boring Person**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/robenbaskey4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/robenbaskey4" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/roben-baskey-64428a1a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roben-baskey-64428a1a4/" height="30" width="40" /></a>
