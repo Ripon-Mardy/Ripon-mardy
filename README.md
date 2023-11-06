@@ -1,5 +1,5 @@
 
-<img height="200" width="100" src="https://www.riponmardy.com/assets/about%20me-69a04ca2.jpg" />
+<img height="200" width="100%" src="https://www.riponmardy.com/assets/about%20me-69a04ca2.jpg" />
 
 <h1 align="center">Hello World 👋, I'm Ripon Mardy (Axel R)</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
