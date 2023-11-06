@@ -24,7 +24,7 @@
  <img src ="https://as2.ftcdn.net/v2/jpg/05/39/40/23/1000_F_539402399_ryYpzIHoD9K9GpVJVeYagMwBlzGbqWoj.jpg"/>
 
 
- <section >
+ <section style=" display:flex; " >
   <div>
    <h4>Hey! Nice to see you</h4>
    <h2> I'm Ripon Mardy (Axel)</h2>
