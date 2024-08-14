@@ -48,7 +48,7 @@
    <h1>Web Developer</h1>
   </div>
   <div>
-   <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
+<!--    <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" /> -->
   </div>
  </section>
 
