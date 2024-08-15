@@ -41,16 +41,7 @@
  <img src ="https://as2.ftcdn.net/v2/jpg/05/39/40/23/1000_F_539402399_ryYpzIHoD9K9GpVJVeYagMwBlzGbqWoj.jpg"/>
 
 
- <section style=" display:flex; align-items: center; justify-content : space-between; " >
-  <div>
-   <h4>Hey! Nice to see you</h4>
-   <h2> I'm Ripon Mardy (Axel)</h2>
-   <h1>Web Developer</h1>
-  </div>
-  <div>
-<!--    <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" /> -->
-  </div>
- </section>
+
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
