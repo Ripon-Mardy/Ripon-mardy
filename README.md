@@ -18,7 +18,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [https://riponmardy.com](https://riponmardy.com)
+- 👨‍💻 All of my projects are available at [https://riponmardy.com](https://riponmardy.vercel.app)
 
 - 💬 Ask me about **Web Developer**
 
