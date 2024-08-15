@@ -37,8 +37,6 @@
  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripon-mardy&show_icons=true&locale=en&layout=compact" alt="ripon-mardy" /></p>
- <img src ="https://as2.ftcdn.net/v2/jpg/05/39/40/23/1000_F_539402399_ryYpzIHoD9K9GpVJVeYagMwBlzGbqWoj.jpg"/>
 
 
 
