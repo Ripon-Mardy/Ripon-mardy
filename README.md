@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripon-mardy&label=Profile%20views&color=0e75b6&style=flat" alt="ripon-mardy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripon-mardy" alt="ripon-mardy" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://riponmardy.vercel.app/](https://riponmardy.vercel.app/)
 
