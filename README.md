@@ -42,43 +42,43 @@ I’m someone who likes to learn by doing. I spend most of my time building, exp
 
 ### 💻 Programming Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />
 
 ### 💻 Frontend Development
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;![Materialize CSS](https://img.shields.io/badge/Materialize%20CSS-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white)
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/materializecss/EE6E73?size=32" alt="Materialize CSS"  />
 
 ### 💻 Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;&nbsp;![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;&nbsp;&nbsp;![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nginx/269539?size=32" alt="Nginx"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nestjs/E0234E?size=32" alt="NestJS"  />
 
 ### 💻 Mobile App Development
 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
 
 ### 💻 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />
 
 ### 💻 Data Visualization
 
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384?size=32" alt="Chart.js"  />
 
 ### 💻 DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/326CE5?size=32" alt="Kubernetes"  />
 
 ### 💻 Software
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00?size=32" alt="Adobe Illustrator"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF?size=32" alt="Adobe Photoshop"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/adobexd/FF61F6?size=32" alt="Adobe XD"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
 
 ### 💻 Static Site Generators
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js"  />
 
 ### 💻 Other
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
 
 ## 📊 GitHub Stats & Activity
 
